@@ -1,0 +1,12 @@
+# Ignore common cache files
+*cache*
+*backup*
+*session*
+
+# Ignore editor swap files
+*.swp
+*.swo
+
+# Ignore application-specific sensitive files (e.g., SSH keys, passwords)
+**/ssh/*
+**/gpg/*
